@@ -13,8 +13,7 @@ L'application offre une interface web interactive permettant aux médecins de sa
 
 ## 🚀 Démo en ligne
 Vous pouvez tester l'application directement ici :
-👉 **[[CLIQUEZ ICI POUR VOIR L'APPLICATION](https://huggingface.co/spaces/[VOTRE_NOM_HUGGINGFACE]/[NOM_DU_PROJET])](https://huggingface.co/spaces/Alajouili123/Detection-Cancer-IA)**
-
+👉 **[CLIQUEZ ICI POUR VOIR L'APPLICATION](https://huggingface.co/spaces/Alajouili123/Detection-Cancer-IA)**
 ## ⚙️ Fonctionnalités
 - **Interface Interactive :** Saisie intuitive des données via des curseurs (Streamlit).
 - **Analyse en Temps Réel :** Prédiction instantanée grâce au modèle pré-entraîné.
