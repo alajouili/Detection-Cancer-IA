@@ -43,4 +43,4 @@ Si vous souhaitez lancer ce projet sur votre propre machine :
 
 1. Clonez le dépôt :
 ```bash
-git clone [[https://github.com/](](https://github.com/alajouili/Detection-Cancer-IA)https://github.com/)[alajouili]/Detection-Cancer-IA.git
+git clone https://github.com/alajouili/Detection-Cancer-IA.git
