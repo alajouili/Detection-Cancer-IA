@@ -58,5 +58,5 @@ Pour une **intégration hospitalière réelle**, l'architecture cible serait la 
 Si vous souhaitez lancer ce projet sur votre propre machine :
 
 1. **Clonez le dépôt :**
-   ```bash
-git clone https://github.com/alajouili/Detection-Cancer-IA.git
+   ```bash git clone https://github.com/alajouili/Detection-Cancer-IA.git
+
